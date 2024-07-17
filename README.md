@@ -23,9 +23,9 @@
 
 ## 📫 How to reach me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **Email:** [abhishekkrwid@gmail.com](mailto:abhishekkrwid@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abhishek-54-kr](https://linkedin.com/in/abhishek-54-kr)
+- **GitHub:** [github.com/abhishek9640](https://github.com/abhishek9640)
 
 ## 🌱 Currently Learning
 
