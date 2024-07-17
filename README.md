@@ -13,7 +13,7 @@
 
 ## 🌟 Experience
 
-- **ReactJS Developer at VOCSO Technologies Pvt Ltd** (March 2024 - Present)
+- **Full Stack Developer at VOCSO Technologies Pvt Ltd** (March 2024 - Present)
 - **Software Engineering Intern at VOCSO Technologies Pvt. Ltd. and TATA POWER**
 - **Web Development Intern at Oasis Infobytes**
 
