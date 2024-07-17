@@ -1,16 +1,34 @@
-## Hi there 👋
+## Abhishek Kumar
 
-<!--
-**abhishek9640/abhishek9640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Abhishek Kumar, a passionate Full Stack Developer with a focus on web technologies. My journey in the tech world has been driven by a love for learning and building innovative solutions.
 
-Here are some ideas to get you started:
+** Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React.js, Next.js, Redux, TailwindCSS, Bootstrap
+Backend: Node.js, Express.js, Strapi, PHP
+Database: PostgreSQL, MySQL, MongoDB
+Other Technologies: Firebase, Docker, AWS, Git, VSCode, Postman
+Mobile Development: React Native, Android Development
+Programming Languages: Java, TypeScript, JavaScript
+** Experience**
+
+ReactJS Developer at VOCSO Technologies Pvt Ltd (March 2024 - Present)
+Software Engineering Intern at VOCSO Technologies Pvt. Ltd. and TATA POWER
+Web Development Intern at Oasis Infobytes
+** Education**
+
+Bachelor of Technology in Computer Science Engineering from Vishveshwarya Group of Institutions, Greater Noida (2024)
+** How to reach me**
+
+Please update the following sections with your actual contact information:
+Email: your.email@example.com
+LinkedIn: [link to your LinkedIn profile]
+GitHub: [link to your GitHub profile]
+** Currently Learning**
+
+Advanced React Patterns
+Cloud Computing with AWS
+Blockchain and Cryptography
+⚡ Fun Fact
+
+I love working on side projects and exploring new technologies. When I'm not coding, you can find me reading tech blogs, playing video games, or exploring new places.
