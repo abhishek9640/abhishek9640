@@ -14,7 +14,7 @@
 ## 🌟 Experience
 
 - **Full Stack Developer at VOCSO Technologies Pvt Ltd** (March 2024 - Present)
-- **Software Engineering Intern at VOCSO Technologies Pvt. Ltd. and TATA POWER**
+- **Software Engineering Intern at TATA POWER**
 - **Web Development Intern at Oasis Infobytes**
 
 ## 🎓 Education
