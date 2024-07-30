@@ -31,7 +31,7 @@
 
 - Advanced React Patterns
 - Cloud Computing with AWS
-- Blockchain and Cryptography
+- Blockchain and new tech
 
 ## ⚡ Fun Fact
 
